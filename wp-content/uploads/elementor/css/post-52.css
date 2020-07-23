@@ -1,0 +1,28 @@
+.elementor-52 .elementor-element.elementor-element-5d6f98 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-52 .elementor-element.elementor-element-5d6f98:not(.elementor-motion-effects-element-type-background), .elementor-52 .elementor-element.elementor-element-5d6f98 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: rgba(0,0,0,0);}
+.elementor-52 .elementor-element.elementor-element-5d6f98 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 100px 0px 100px 0px;}
+.elementor-52 .elementor-element.elementor-element-5d6f98 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-52 .elementor-element.elementor-element-4df0a830 > .elementor-element-populated {padding: 0% 20% 0% 20%;}
+.elementor-52 .elementor-element.elementor-element-662a91c6 {text-align: center;}
+.elementor-52 .elementor-element.elementor-element-662a91c6 .elementor-heading-title {color: #000;font-size: 45px;font-weight: 600;line-height: 1.2em;}
+.elementor-52 .elementor-element.elementor-element-5c3a50f {--divider-border-style: solid;--divider-border-color: #ff4a96;--divider-border-width: 1px;}
+.elementor-52 .elementor-element.elementor-element-5c3a50f .elementor-divider-separator {width: 15%;margin: 0 auto;margin-center: 0;}
+.elementor-52 .elementor-element.elementor-element-5c3a50f .elementor-divider {text-align: center;padding-top: 15px;padding-bottom: 15px;}
+.elementor-52 .elementor-element.elementor-element-2f914228 {text-align: center;}
+.elementor-52 .elementor-element.elementor-element-2f914228 .elementor-heading-title {color: #686868;font-size: 15px;font-weight: 300;}
+.elementor-52 .elementor-element.elementor-element-2f914228 > .elementor-widget-container {margin: -10px 0px 30px 0px;}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle .elementor-tab-title {border-width: 1px;border-color: #686868;background-color: #7a7a7a;padding: 30px 30px 30px 30px;}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle .elementor-tab-content {border-width: 1px;border-bottom-color: #686868;background-color: rgba(25,25,25,0);color: #686868;font-size: 16px;font-weight: 300;line-height: 1.8em;padding: 15px 35px 15px 35px;}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle .elementor-toggle-item:not(:last-child) {margin-bottom: 32px;}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle .elementor-toggle-item {box-shadow: 0px 0px 30px 0px rgba(0,0,0,.12);}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle-title, .elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle-icon {color: #fff;}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-tab-title.elementor-active a, .elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-tab-title.elementor-active .elementor-toggle-icon {color: #ff4a96;}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle .elementor-toggle-title {font-size: 16px;font-weight: 900;text-transform: uppercase;}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle .elementor-tab-title .elementor-toggle-icon i:before {color: #fff;}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle .elementor-tab-title .elementor-toggle-icon svg {fill: #fff;}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon i:before {color: #ff4a96;}
+.elementor-52 .elementor-element.elementor-element-4e2379c8 .elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon svg {fill: #ff4a96;}
+@media (max-width:1024px) {.elementor-52 .elementor-element.elementor-element-5d6f98 {padding: 100px 25px 100px 25px;}
+	.elementor-52 .elementor-element.elementor-element-4df0a830 > .elementor-element-populated {padding: 0px 0px 0px 0px;}}
+@media (max-width:767px) {.elementor-52 .elementor-element.elementor-element-5d6f98 {padding: 50px 20px 50px 20px;}
+	.elementor-52 .elementor-element.elementor-element-4e2379c8 > .elementor-widget-container {padding: 15px 0px 0px 0px;}}
