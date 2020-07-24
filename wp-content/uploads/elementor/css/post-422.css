@@ -1,0 +1,12 @@
+.elementor-422 .elementor-element.elementor-element-2ae93131 > .elementor-container {max-width: 803px;}
+.elementor-422 .elementor-element.elementor-element-2ae93131:not(.elementor-motion-effects-element-type-background), .elementor-422 .elementor-element.elementor-element-2ae93131 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: transparent;background-image: linear-gradient(140deg,rgba(0,172,237,.91) 0%,#fff 100%);}
+.elementor-422 .elementor-element.elementor-element-2ae93131 > .elementor-background-overlay {background-image: url("https://david-byte.github.io/lilian-roberta/wp-content/uploads/2020/07/fernanda-matos-DJdvB_RH3ZY-unsplash-scaled.jpg");background-position: center center;background-size: cover;opacity: .39;transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-422 .elementor-element.elementor-element-2ae93131 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 120px 0px 280px 0px;}
+.elementor-422 .elementor-element.elementor-element-2ae93131 > .elementor-shape-bottom svg {width: calc(100% + 1.3px);height: 314px;}
+.elementor-422 .elementor-element.elementor-element-999fce2 {text-align: center;}
+.elementor-422 .elementor-element.elementor-element-999fce2 .elementor-heading-title {color: #fff;font-family: "Roboto",Sans-serif;font-size: 62px;font-weight: 200;}
+@media (max-width:1024px) {.elementor-422 .elementor-element.elementor-element-2ae93131 > .elementor-shape-bottom svg {height: 198px;}
+	.elementor-422 .elementor-element.elementor-element-2ae93131 {padding: 75px 50px 200px 50px;}}
+@media (max-width:767px) {.elementor-422 .elementor-element.elementor-element-2ae93131 > .elementor-shape-bottom svg {height: 170px;}
+	.elementor-422 .elementor-element.elementor-element-2ae93131 {padding: 65px 25px 175px 25px;}
+	.elementor-422 .elementor-element.elementor-element-999fce2 .elementor-heading-title {font-size: 50px;}}
